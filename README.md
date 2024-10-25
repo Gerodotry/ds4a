@@ -45,7 +45,7 @@ This is a full-stack web application for managing books, authors, and genres, bu
 - [License](#license)
 - [Screenshots](#screenshots)
  
-## Features ✨
+## Features   ✨
 
 - **User Authentication**: Secure login and registration with JWT-based authentication.
 - **Resource Management**: CRUD functionality for books, authors, and genres.
